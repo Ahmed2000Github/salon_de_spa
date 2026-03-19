@@ -78,5 +78,5 @@ flutter run
   <img src="screenshots/screen6.jpg" width="18%" />
 </p>
 
----
-*Developed as a Flutter technical showcase.*
+
+
